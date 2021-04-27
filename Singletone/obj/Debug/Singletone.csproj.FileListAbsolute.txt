@@ -1,0 +1,7 @@
+C:\Git\Estudos\designPattnersSingleston\Singletone\bin\Debug\Singletone.exe.config
+C:\Git\Estudos\designPattnersSingleston\Singletone\bin\Debug\Singletone.exe
+C:\Git\Estudos\designPattnersSingleston\Singletone\bin\Debug\Singletone.pdb
+C:\Git\Estudos\designPattnersSingleston\Singletone\obj\Debug\Singletone.csprojAssemblyReference.cache
+C:\Git\Estudos\designPattnersSingleston\Singletone\obj\Debug\Singletone.csproj.CoreCompileInputs.cache
+C:\Git\Estudos\designPattnersSingleston\Singletone\obj\Debug\Singletone.exe
+C:\Git\Estudos\designPattnersSingleston\Singletone\obj\Debug\Singletone.pdb
