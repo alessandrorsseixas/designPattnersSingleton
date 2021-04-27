@@ -81,7 +81,7 @@ class Program
     }
 ```
 
-![](C:\Git\Estudos\designPattnersSingleston\Console1.PNG)
+![](Console1.PNG)
 
 Para entender a diferença entre a utilização do *singleton* e uma classe sem sua utilização , criei um novo método estático de nome *GetInstanceWithoutSingleton* onde esse não está implementado o *Design Patterns Singleton* e vamos ver o resultado instanciando um novo objeto *Ball* a partir desse método.
 
@@ -125,7 +125,7 @@ class Program
 
 E o resultado exibido no console foi que a "A bola está em jogo" agora aparece duas vezes, o que representa que um novo objeto de *Ball* foi instanciado:
 
-![](C:\Git\Estudos\designPattnersSingleston\console2.PNG)
+![](console2.PNG)
 
 
 
